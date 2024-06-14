@@ -18,7 +18,7 @@ svelte
                  An <span class="text-primaryGreen font-bold">Information Technology</span> Student from Cebu Insitute of Technology,<br/>A Fullstack Developer that aims to bring solutions to your problems 
             </h1>
             <div class="flex flex-row items-center gap-10">
-                <a href="../../Lavador , Keath ian Resume.pdf" download="Lavador , Keath ian Resume.pdf" class="button ms-auto flex flex-col">
+                <a href="../../Keath Ian-Resume.pdf" download="Keath Ian-Resume.pdf" class="button ms-auto flex flex-col">
                     Download Resume
                 </a>
                 <div class="group relative">
