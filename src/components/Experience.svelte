@@ -4,12 +4,17 @@
 </script>
 <SectionWrapper id="Experience">
     <div class="flex flex-col gap-5 sm:gap-5 md:gap-5 flex-1   pb-10 md:pb-14 items-end mt-40">
-        
+         <div class="notification ,">
+          <div class="notiglow"></div>
+          <div class="notiborderglow"></div>
+          <div class="notititle">Full Stack Developer</div>
+          <div class="notibody">Hatchit Solutions</div>
+        </div>
         <div class="notification ,">
           <div class="notiglow"></div>
           <div class="notiborderglow"></div>
           <div class="notititle">Backend Developer</div>
-          <div class="notibody">Freelance</div>
+          <div class="notibody">Lex AI</div>
         </div>
         <div class="notification mt-">
           <div class="notiglow"></div>
